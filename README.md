@@ -1,4 +1,4 @@
-Oi,
+Hi,
 
-Estou atualmente estudando programação com enfase em C e Python. 
-Curso: Análise e Desenvolvimento de Sistemas.
+I am currently studying programming with an emphasis on C and Python.
+Degree: Systems Analysis and Development.
