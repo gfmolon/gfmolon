@@ -1,4 +1,4 @@
 Hi,
 
-I am currently studying programming with an emphasis on C and Python.
-Degree: Systems Analysis and Development.
+Currently studying programming with a focus on C and Python.
+Pursuing a degree in Systems Analysis and Development at Universidade de Caxias do Sul (UCS).
