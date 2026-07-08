@@ -2,10 +2,6 @@ Olá, sou Guilherme Molon, Desenvolvedor de Software em formação pela UCS, Bac
 
 Desenvolvo sistemas web e produtos digitais, como o Meu Aluguel e o Raízes da Serra, unindo tecnologia, organização e visão de negócio.
 
-Mais sobre meus projetos: www.guilhermemolon.com
-
----
-
 Software Developer in training based in Brazil, building web systems and digital products.
 
 Portfolio: www.guilhermemolon.com
