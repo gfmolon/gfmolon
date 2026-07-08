@@ -6,6 +6,6 @@ Mais sobre meus projetos: www.guilhermemolon.com
 
 ---
 
-**English:** Software Developer in training based in Brazil, building web systems and digital products.
+Software Developer in training based in Brazil, building web systems and digital products.
 
 Portfolio: www.guilhermemolon.com
