@@ -6,8 +6,6 @@ Mais sobre meus projetos: www.guilhermemolon.com.br
 
 ---
 
-Hi, I'm Guilherme Molon, a Software Developer in training at UCS, with a background in Business Administration from UCS and a postgraduate degree in Marketing from FGV.
+**English:** Software Developer in training from Brazil, building web systems and digital products.
 
-I build web systems and digital products, such as Meu Aluguel and Raízes da Serra, combining technology, organization and business vision.
-
-More about my projects: www.guilhermemolon.com.br/en/
+Portfolio: www.guilhermemolon.com.br/en/
